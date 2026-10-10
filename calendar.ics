@@ -1,0 +1,6 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//gov-quant-pipeline//market-calendar//EN
+X-WR-CALNAME:Market Calendar
+X-WR-TIMEZONE:America/New_York
+END:VCALENDAR
